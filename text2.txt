@@ -1,2 +1,6 @@
 what happens
+<<<<<<< HEAD
 this is a local change
+=======
+this is a remote change
+>>>>>>> fb44015dee08ca7cad1a32653d1a48a65b2d9103
